@@ -13,5 +13,3 @@ which further will notify the location on Google map..
 
 
 
-
-v
