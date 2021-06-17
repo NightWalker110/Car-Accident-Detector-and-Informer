@@ -12,5 +12,3 @@ which further will notify the location on Google map..
 
 
 
-
-k
